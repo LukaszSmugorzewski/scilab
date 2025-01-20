@@ -38,7 +38,7 @@ plot(zakres_x, funkcja1, 'b', zakres_x, funkcja2, 'r'); title("wykres funkcji");
 
 //zadanie 3
 
-Rok = [2010, 2015, 2020];
+Rok = [2010, 2012, 2024];
 Przychod = [42332, 23243, 33244];
 Koszty = [2323, 2332, 3212]; 
 Zyski = [3233, 4323, 5986]; 
